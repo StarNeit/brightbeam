@@ -1,7 +1,7 @@
 # Do more trees mean more money?
 
-## How to run`
-`
+## How to run
+
 In the project directory, you can run:
 
 ### `npm i`or `yarn` to install packages
